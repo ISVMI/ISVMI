@@ -5,7 +5,7 @@ h1 align="center">Hi 👋, I'm Valentine.</h1>
 
 - 🌱 I’m currently learning **Bash, C#, Git**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 3agu6ok@gmail.com</h3>
 <p align="left">
 </p>
 
