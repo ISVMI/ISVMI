@@ -1,11 +1,12 @@
-h1 align="center">Hi 👋, I'm Valentine.</h1>
+<h1 align="center">Hi 👋, I'm Valentine.</h1>
 <h3 align="center">A passionate future developer</h3>
 
 - 🔭 I’m currently working on [University managment system](https://github.com/ISVMI/University-managment)
 
 - 🌱 I’m currently learning **Bash, C#, Git**
 
-<h3 align="left">Connect with me: 3agu6ok@gmail.com</h3>
+- 📨Connect with me **3agu6ok@gmail.com**
+
 <p align="left">
 </p>
 
