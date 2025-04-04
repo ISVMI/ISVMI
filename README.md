@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University managment system](https://github.com/ISVMI/University-managment)
 
-- 🌱 I’m currently learning **Bash, C#, Git**
+- 🌱 I’m currently learning **C#, Asp.Net**
 
 - 📨Connect with me **3agu6ok@gmail.com**
 
