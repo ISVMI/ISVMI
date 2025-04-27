@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentine.</h1>
 <h3 align="center">A passionate future developer</h3>
 
-- 🔭 I’m currently working on [University managment system](https://github.com/ISVMI/DigitalDevicesStorage)
+- 🔭 I’m currently working on [Digital devices storage](https://github.com/ISVMI/DigitalDevicesStorage)
 
 - 🌱 I’m currently learning **C#, Asp.Net**
 
