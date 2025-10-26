@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#, Asp.Net**
 
-- 📨Connect with me **3agu6ok@gmail.com**
+- 📨Connect with me **3agy6ok@gmail.com**
 
 <p align="left">
 </p>
